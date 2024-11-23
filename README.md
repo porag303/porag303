@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmudul Hasan Porag</h1>
-<h3 align="center">I'm an aspiring developer passionate about learning and working with modern technologies. Currently, I'm diving into Linux, Git, GitHub, and Docker to strengthen my development skills and build efficient, scalable applications. I enjoy solving problems, collaborating on open-source projects, and continuously improving my knowledge.</h3>
+<h3 align="center">I’m a student of DevOps, currently learning and gaining hands-on experience with Linux, Git, GitHub, and Docker.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=porag303&label=Profile%20views&color=0e75b6&style=flat" alt="porag303" /> </p>
 
